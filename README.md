@@ -5,10 +5,6 @@ Recently, KahootPY and Kahoot.JS-Updated were taken down by [https://repl.it/@th
 
 Example:
 
-<code>
-  <p style='word-wrap: break-word; white-space: pre-wrap;'>
-    test
-    test
-  </p>
+<code style='word-wrap: break-word; white-space: pre-wrap;'>
 </code>
 
