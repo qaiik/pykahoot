@@ -5,5 +5,7 @@ Recently, KahootPY and Kahoot.JS-Updated were taken down by [https://repl.it/@th
 
 Example:
 
-`pip alert1`
+```
+diroio
+```
 
