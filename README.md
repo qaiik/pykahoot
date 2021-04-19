@@ -7,5 +7,6 @@ Example:
 
 ```
 diroio
+man
 ```
 
