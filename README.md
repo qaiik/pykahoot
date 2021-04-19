@@ -5,8 +5,5 @@ Recently, KahootPY and Kahoot.JS-Updated were taken down by [https://repl.it/@th
 
 Example:
 
-<code style='word-wrap: break-word; white-space: pre-wrap;'>
-  teka
-  teks
-</code>
+`pip alert1`
 
